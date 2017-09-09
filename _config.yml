@@ -1,0 +1,47 @@
+# Dependencies
+# markdown: redcarpet
+highlighter:  pygments
+
+gems:
+  - jekyll-paginate
+  - jekyll-feed
+
+# Permalinks
+# permalink: pretty
+# relative_permalinks: true
+permalink:              /blog/:categories/:title/
+# permalink:            blog/:categories/:year/:month/:day/:title/
+
+# Setup
+title:            'Stella Huayhuaca'
+name:             'Stella Huayhuaca'
+#tagline:          ''
+description:      'When not coding or walking with my camera, you'll find me here, sharing my thoughts on Portland and my surroundings.
+#url:              http://huayhuaca.github.io/
+baseurl:
+blogurl:          /blog/
+
+# Assets
+images:         '/assets'
+# pdfs:           '/pdf'
+
+author:
+  name:           'Stella Huayhuaca'
+  url:            huayhuaca.github.io
+  github:         'https://github.com/uturunku1'
+  linkedin:       'https://www.linkedin.com/in/stella-huayhuaca '
+  email:          'luces.huayhuaca@gmail.com'
+
+paginate:         3
+paginate_path:    "/blog/page:num/"
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/uturunku1/huayhuaca.github.io
+
+# Collections
+collections:
+  - projects
+  - multimedia

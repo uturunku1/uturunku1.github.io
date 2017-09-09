@@ -1,0 +1,24 @@
+/*Override Poole and Hyde style*/
+
+/* Sidebar */
+.sidebar-about a {
+  color: khaki;
+  margin-top: 0;
+  font-family: "Lucida Console", cursive;
+  font-size: 2.75rem;
+}
+
+.sidebar {
+  background-color: purple;
+}
+a .sidebar-nav-item {
+
+  color: khaki;
+}
+.nav-inline {
+    
+    list-style: none;
+    display: inline-flex;
+    /*display: flex;*/
+    /*justify-content: space-between;*/
+}
