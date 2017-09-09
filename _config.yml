@@ -1,6 +1,5 @@
 # Dependencies
-# markdown: redcarpet
-highlighter:  pygments
+highlighter:  rouge
 
 gems:
   - jekyll-paginate
@@ -16,10 +15,10 @@ permalink:              /blog/:categories/:title/
 title:            'Stella Huayhuaca'
 name:             'Stella Huayhuaca'
 #tagline:          ''
-description:      'When not coding or walking with my camera, you'll find me here, sharing my thoughts on Portland and my surroundings.
+description:      "When not coding or walking with my camera, you'll find me here, sharing my thoughts on Portland and my surroundings."
 #url:              http://huayhuaca.github.io/
 baseurl:
-blogurl:          /blog/
+# blogurl:          /blog/
 
 # Assets
 images:         '/assets'
