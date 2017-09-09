@@ -1,3 +1,3 @@
-# huayhuaca.github.io
+# uturunku1.github.io
 
-My blog using github pages and Jekyll: huayhuaca.github.io
+My blog using github pages and Jekyll: uturunku1.github.io
