@@ -16,7 +16,11 @@ title:            'Stella Huayhuaca'
 name:             'Stella Huayhuaca'
 #tagline:          ''
 description:      "When not coding or walking with my camera, you'll find me here, sharing my thoughts on Portland and my surroundings."
+<<<<<<< HEAD
 #url:              http://huayhuaca.github.io/
+=======
+#url:              http://uturunku1.github.io/
+>>>>>>> master
 baseurl:
 # blogurl:          /blog/
 
@@ -26,7 +30,7 @@ images:         '/assets'
 
 author:
   name:           'Stella Huayhuaca'
-  url:            huayhuaca.github.io
+  url:            uturunku1.github.io
   github:         'https://github.com/uturunku1'
   linkedin:       'https://www.linkedin.com/in/stella-huayhuaca '
   email:          'luces.huayhuaca@gmail.com'
