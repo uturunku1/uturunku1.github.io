@@ -16,12 +16,8 @@ title:            'Stella Huayhuaca'
 name:             'Stella Huayhuaca'
 #tagline:          ''
 description:      "When not coding or walking with my camera, you'll find me here, sharing my thoughts on Portland and my surroundings."
-<<<<<<< HEAD
-#url:              http://huayhuaca.github.io/
-=======
-#url:              http://uturunku1.github.io/
->>>>>>> master
-baseurl:
+
+baseurl:         http://uturunku1.github.io/
 # blogurl:          /blog/
 
 # Assets
